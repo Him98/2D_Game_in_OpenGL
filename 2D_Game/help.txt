@@ -1,0 +1,19 @@
+													Graphics Assignment 1 
+
+
+Controls
+-------
+
+- left arrow key to move the ball left.
+- right arrow key to move the ball right.
+- A to pan the screen left when zoomed in.
+- D to pan the screen right when zoomed in.
+- W to pan the screen top when zoomed in.
+- S to pan the screen bottom when zoomed in.
+- SPACE to jump.
+- Mousewheel to zoom in/out.
+- Using mouse buttons you can drag.
+- Press multiple controls at same time to get the combined functionality.
+
+
+For more things check README.md .			
